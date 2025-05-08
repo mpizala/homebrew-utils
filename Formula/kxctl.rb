@@ -1,9 +1,9 @@
 class Kxctl < Formula
   desc "kubectl for cross-cluster activities"
   homepage "https://github.com/mpizala/kxctl"
-  url "https://github.com/mpizala/kxctl/releases/download/v1.0.0/kxctl_Darwin_arm64.tar.gz"
-  sha256 "8f839a79fcf9e353f422fdb687af7af6260dc54ab0057d2b842f608ccb0fc2e5"
-  version "1.0.0"
+  url "https://github.com/mpizala/kxctl/releases/download/v1.0.3/kxctl_Darwin_arm64.tar.gz"
+  sha256 "4573ecdd446fbad33e78cf9627eb2aac54258defe44c2589345d8151050acde8"
+  version "1.0.3"
 
   def install
     bin.install "kxctl"

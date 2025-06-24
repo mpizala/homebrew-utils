@@ -3,7 +3,7 @@ class EcsShell < Formula
   homepage "https://github.com/mpizala/ecs-shell"
   url "https://github.com/mpizala/ecs-shell/releases/download/v1.0.0/ecs-shell"
   version "1.0.0"
-  sha256 "PLACEHOLDER_SHA256"
+  sha256 "7f5489a6d2c58ad6d4d25f732729aa2d18ad97701bacc73e8d0876586a0daaa5"
 
   depends_on "awscli"
   depends_on "jq"
